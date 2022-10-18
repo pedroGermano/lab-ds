@@ -20,6 +20,6 @@ module.exports = {
       config.base = '/lab-ds'
     }
 
-    return config
+    return config;
   }
 }
