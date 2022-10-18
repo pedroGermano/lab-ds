@@ -9,7 +9,8 @@
     "preview": "vite preview",
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
-    "deplay-storybook": "storybook-to-ghpages"
+    "deploy-storybook": "storybook-to-ghpages"
+
 
   },
   "dependencies": {
